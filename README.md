@@ -13,6 +13,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qoth-0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qoth-0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qoth-0&theme=github)
+
 <!-- 
 **qoth-0/qoth-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
