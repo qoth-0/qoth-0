@@ -8,6 +8,8 @@
 >  ![jsonwebtokens](https://img.shields.io/badge/JWT-000000.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 >  ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
 >  ![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+>  ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
+>  ![vuedotjs](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vuedotjs&logoColor=white)
 
 
 
