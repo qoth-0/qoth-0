@@ -30,7 +30,7 @@
 
 ### Stats
 > ![qoth-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=qoth-0&count_private=true&show_icons=true&theme=radical) <br><br>
-> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bny1324)](https://solved.ac/bny1324/)<br><br>
+<!-- > [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bny1324)](https://solved.ac/bny1324/)<br><br>-->
 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qoth-0&theme=github)-->
