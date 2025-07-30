@@ -28,6 +28,7 @@
 >  ![Visual Studio Code](https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 >  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
+<!-- >
 ### Stats
 > ![qoth-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=qoth-0&count_private=true&show_icons=true&theme=radical) <br><br>
 <!-- > [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bny1324)](https://solved.ac/bny1324/)<br><br>-->
